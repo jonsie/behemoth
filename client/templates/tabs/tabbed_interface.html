@@ -1,0 +1,15 @@
+<template name="tabbedInterface">
+
+    <!-- Use `name` to add a custom class to the outer container -->
+    {{#basicTabs name="" tabs=tabs}}
+        {{#tabContent slug="console"}}
+            {{> console}}
+        {{/tabContent}}
+
+        {{#tabContent slug="editor"}}
+            {{> editor}}
+        {{/tabContent}}
+
+    {{/basicTabs}}
+
+</template>

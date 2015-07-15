@@ -1,0 +1,11 @@
+.idea/
+
+atlassian-ide-plugin.xml
+*.ipr
+*.iml
+*.iws
+*.log
+*.orig
+*.class
+*.hprof
+.DS_Store
