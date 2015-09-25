@@ -1,3 +1,3 @@
 # behemoth
 
-This will one day be an interactive game that helps people learn the basics of JavaScript (myself included cause I'm no JS expert).
+An interactive text based game (heavily influenced by MUDs) to teach the basics of JavaScript.
